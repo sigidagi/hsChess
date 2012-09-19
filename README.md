@@ -1,0 +1,4 @@
+hsChess
+=======
+
+simple chess engine  
